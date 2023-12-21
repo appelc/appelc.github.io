@@ -22,7 +22,7 @@
 - title: Experience
   type: time_table
   contents:
-  - title: Graduate Research Assistant
+    - title: Graduate Research Assistant
       institution: Oregon State University
       year: 2019 - present
       description:
