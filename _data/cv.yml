@@ -5,12 +5,12 @@
       institution: Oregon State University -- Corvallis, Oregon, USA
       year: 2025
       description:
-        - Department of Fisheries, Wildlife, and Conservation Sciences
+        Department of Fisheries, Wildlife, and Conservation Sciences
     - title: M.S.
       institution: Cal Poly Humboldt -- Arcata, California, USA
       year: 2016
       description:
-        - Department of Wildlife
+        Department of Wildlife
         - Patricia O. McConkey Outstanding Graduate Student Award
     - title: B.A.
       institution: University of Washington -- Seattle, Washington, USA
@@ -24,13 +24,8 @@
   contents:
     - title: Graduate Research Assistant
       institution: Oregon State University
+      institution: U.S. Forest Service Pacific Northwest Research Station
       year: 2019 - present
-      description:
-        - Department of Fisheries, Wildlife, and Conservation Sciences
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
 
 - title: Honors and Awards
   type: time_table
