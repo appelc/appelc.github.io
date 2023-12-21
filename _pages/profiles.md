@@ -19,7 +19,7 @@ profiles:
       
   - align: left
     image: cameras_pic.jpg
-    content: research_cameras.md
+    content: research_computervision.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Example image from western Oregon</p>
