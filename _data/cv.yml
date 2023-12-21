@@ -1,16 +1,11 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD (in progress)
+    - title: Ph.D. (in progress)
       institution: Oregon State University -- Corvallis, Oregon, USA
       year: 2025
       description:
         - Department of Fisheries, Wildlife, and Conservation Sciences
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
     - title: M.S.
       institution: Cal Poly Humboldt -- Arcata, California, USA
       year: 2016
@@ -27,6 +22,15 @@
 - title: Experience
   type: time_table
   contents:
+  - title: Graduate Research Assistant
+      institution: Oregon State University
+      year: 2019 - present
+      description:
+        - Department of Fisheries, Wildlife, and Conservation Sciences
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
 
 - title: Honors and Awards
   type: time_table
