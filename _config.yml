@@ -103,7 +103,7 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  Contact me using the email link above.
+  Contact me using the links above
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -272,7 +272,7 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 scholar:
 
   last_name: [Appel]
-  first_name: [Cara, L.]
+  first_name: [Cara, L]
 
   style: apa
   locale: en
