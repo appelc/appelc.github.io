@@ -46,9 +46,7 @@
           {%- assign author_is_self = false -%}
           {%- assign author_last_name = author.last | remove: "¶" | remove: "&" | remove: "*" | remove: "†" | remove: "^" -%}
           {%- if author_last_name contains site.scholar.last_name -%}
-            {%- if author.first contains site.scholar.first_name -%}
-              {%- assign author_is_self = true -%}
-            {%- endif -%}
+            {%- assign author_is_self = true -%}
           {%- endif -%}
           {%- assign coauthor_url = nil -%}
           {%- if site.data.coauthors[author_last_name] -%}
