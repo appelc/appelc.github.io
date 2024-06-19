@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+title: projects (coming soon)
 permalink: /projects/
 description: coming soon
 nav: true
