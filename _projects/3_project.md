@@ -2,7 +2,7 @@
 layout: page
 title: Nkhotakota camera traps
 description: Wildlife monitoring in Nkhotakota Wildlife Reserve, Malawi
-img: assets/img/R23-C-2020-07-23 (140).jpg
+img: assets/img/R23-C-2020-07-23 (140).JPG
 importance: 3
 category: phd
 related_publications: koning2023njobvu
