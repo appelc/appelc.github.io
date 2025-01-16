@@ -12,7 +12,7 @@ I am extremely fortunate to get to work with collaborators from African Parks an
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/L10-C-2021-12-05/L10-C-2021-12-05__2020-10-28__14-13-43(3).png" title="elephant yolo" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/L10-C-2021-12-05__2020-10-28__14-13-43(3).png" title="elephant yolo" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/M22-A-2022-11-01__2020-08-13__07-38-54(1).png" title="waterbuck yolo" class="img-fluid rounded z-depth-1" %}
@@ -29,10 +29,10 @@ We are using remote camera traps to monitor mammal populations in the reserve, a
         {% include figure.html path="assets/img/P9-A-2021-09-15__2020-08-30__07-51-17(1).png" title="honey badger yolo" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/G7-C-2021-10-27/G7-C-2021-10-27__2020-10-16__05-30-34(3).png" title="kudu yolo" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/G7-C-2021-10-27__2020-10-16__05-30-34(3).png" title="kudu yolo" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/E8-B-2021-12-04/E8-B-2021-12-04__2020-09-18__21-20-29(2).png" title="bushbaby yolo" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/E8-B-2021-12-04__2020-09-18__21-20-29(2).png" title="bushbaby yolo" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -40,7 +40,7 @@ This project was a driving factor behind the development of Njobvu-AI, a user-fr
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/njobvu_square_light_buffer.png" title="njobvu-ai logo" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/njobvu_horizontal_light.png" title="njobvu-ai logo" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
