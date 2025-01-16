@@ -17,7 +17,7 @@ This work is supported by the Pacific Northwest Bioacoustics Lab at the U.S. For
 </div>
 
 
-**Publications:**
+### Publications:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
