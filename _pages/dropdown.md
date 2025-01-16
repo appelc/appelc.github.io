@@ -1,19 +1,19 @@
 ---
 layout: page
-title: submenus
+title: research
 nav: true
-nav_order: 4
+nav_order: 1
 dropdown: true
 children:
     - title: overview
       permalink: /projects
     - title: divider
     - title: bioacoustics
-      permalink: /projects/1_project
+      permalink: /projects/bioacoustics
     - title: oregon critters
-      permalink: /projects/2_project
+      permalink: /projects/oregon_critters
     - title: Nkhotakota camera traps
-      permalink: /projects/3_project
+      permalink: /projects/nkhotakota_camera_traps
     - title: porcupines
-      permalink: /projects/4_project
+      permalink: /projects/porcupines
 ---
