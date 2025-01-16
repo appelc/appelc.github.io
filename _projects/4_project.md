@@ -8,7 +8,9 @@ category: other
 related_publications: appel2017distribution, appel2018seasonal, appel2021north, belamaric2024porcupines
 ---
 
-Coming soon!
+If you're interested in learning more, check out this webinar I presented for Oregon Wild!
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6ja3cPxuwls?si=vkwJPs31afGHRTZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
