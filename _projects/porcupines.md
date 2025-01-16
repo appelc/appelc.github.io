@@ -30,8 +30,8 @@ If you're interested in learning more about our porcupine work, check out this <
 <br/>
 <br/>
 **More media features:**
-- <a href="https://www.nwf.org/Magazines/National-Wildlife/2019/Oct-Nov/Conservation/Porcupines">**"Pining Away? As the climate shifts, porcupines face a prickly future."** by Jennifer S. Holland * *(National Wildlife Magazine)* *</a>
-- <a href="https://www.spokesman.com/stories/2021/apr/18/amid-widespread-decline-spokane-region-remains-som/">**"Amid widespread decline, Spokane region remains something of a porcupine redoubt."** by Ben Goldfarb * *(The Spokesman-Review, Spokane, WA)* *</a>
-- <a href="https://www.nwf.org/Magazines/National-Wildlife/2019/Oct-Nov/Conservation/Porcupines">**"Loud porcupines rescued from Tahoe’s Caldor Fire are finally going home."** by Ashley Harrell * *(SFGATE)* *</a>
+- <a href="https://www.nwf.org/Magazines/National-Wildlife/2019/Oct-Nov/Conservation/Porcupines"><b>"Pining Away? As the climate shifts, porcupines face a prickly future."</b> by Jennifer S. Holland * *(National Wildlife Magazine)*</a>
+- <a href="https://www.spokesman.com/stories/2021/apr/18/amid-widespread-decline-spokane-region-remains-som/">"Amid widespread decline, Spokane region remains something of a porcupine redoubt." by Ben Goldfarb * *(The Spokesman-Review, Spokane, WA)*</a>
+- <a href="https://www.nwf.org/Magazines/National-Wildlife/2019/Oct-Nov/Conservation/Porcupines">"Loud porcupines rescued from Tahoe’s Caldor Fire are finally going home." by Ashley Harrell * *(SFGATE)*</a>
 
  
