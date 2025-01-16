@@ -4,7 +4,7 @@ title: oregon critters
 description: Camera traps and computer vision for forest mammals in the PNW
 img: assets/img/cameras_pic.jpg
 importance: 2
-category: work
+category: phd
 giscus_comments: true
 ---
 
