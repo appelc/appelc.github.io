@@ -10,6 +10,14 @@ related_publications: ruff2021workflow, lesmeister2021simulating, appel2023using
 
 Northern spotted owls (<i>Strix occidentalis caurina</i>) are federally listed as threatened under the Endangered Species Act and have been at the forefront of forest management and conservation policy in the Pacific Northwest for decades. Recently, monitoring of northern spotted owls transitioned from mark-resight surveys to a passive acoustic monitoring framework using autonomous recording units (ARUs) to detect owls by their vocalizations.
 
+This work is supported by the Pacific Northwest Bioacoustics Lab at the U.S. Forest Service Pacific Northwest Research Station.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/bioacoustics_lab.png" title="bioacoustics lab" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 <b>Publications:</b>
 
 <div class="row">
