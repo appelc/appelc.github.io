@@ -4,7 +4,7 @@ title: Bioacoustics
 description: Bioacoustics for monitoring northern spotted owls
 img: assets/img/bioacoustics_pic.jpg
 importance: 1
-category: work
+category: phd
 related_publications: lesmeister2021simulating, appel2023using, weldy2023long
 ---
 
