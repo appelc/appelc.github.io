@@ -26,14 +26,18 @@
       description: Affiliate with U.S. Forest Service Pacific Northwest Research Station
       year: 2019 - present
 
-- title: Honors and Awards <i>(selected)</i>
-  type: list
+- title: Other Achievements
+  type: nested_list
   contents:
-    - Thomas G. Scott Achievement Award, Department of Fisheries, Wildlife, and Conservation Sciences, Oregon State University
-    - Les Eberhardt Award, Best Student Presentation, Oregon Chapter of The Wildlife Society
-    - Advanced Graduate Student Scholarship, Oregon Chapter of The Wildlife Society
-    - Outstanding New Graduate Student Scholarship, Oregon Chapter of The Wildlife Society
-    - ARCS Scholar Award
-    - Provost’s Distinguished Scholarship, Oregon State University
-    - Patricia O. McConkey Outstanding Graduate Student Award, Cal Poly Humboldt
-
+    - title: Continuing Education
+      items:
+        - Computer Vision for Ecology (CV4E) Summer Workshop, Caltech
+    - title: Honors and Awards <i>(selected)</i>
+      items:
+        - Thomas G. Scott Achievement Award, Department of Fisheries, Wildlife, and Conservation Sciences, Oregon State University
+        - Les Eberhardt Award, Best Student Presentation, Oregon Chapter of The Wildlife Society
+        - Advanced Graduate Student Scholarship, Oregon Chapter of The Wildlife Society
+        - Outstanding New Graduate Student Scholarship, Oregon Chapter of The Wildlife Society
+        - ARCS Scholar Award
+        - Provost’s Distinguished Scholarship, Oregon State University
+        - Patricia O. McConkey Outstanding Graduate Student Award, Cal Poly Humboldt
