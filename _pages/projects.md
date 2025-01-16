@@ -6,18 +6,6 @@ nav: true
 nav_order: 1
 display_categories: [phd, other]
 horizontal: false
-dropdown: true
-children: 
-    - title: bioacoustics
-      permalink: /_projects/1_project.md
-    - title: oregon critters
-      permalink: /_projects/2_project.md
-    - title: Nkhotakota camera traps
-      permalink: /_projects/3_project.md
-    - title: porcupines
-      permalink: /_projects/4_project.md
-    - title: all
-      permalink: /_pages/projects.md
 ---
 
 <!-- pages/projects.md -->
