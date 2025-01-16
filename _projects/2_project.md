@@ -17,18 +17,18 @@ The extensive monitoring network for northern spotted owls in the Pacific Northw
 
 
 I've also developed a computer vision workflow to detect and classify animals in images from both ground and trail cameras. More coming soon! 
-<a href="https://github.com/appelc/oregon_critters">(Follow on Github)</a>
+(<a href="https://github.com/appelc/oregon_critters">Follow on Github</a>)
 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/trail_val_22192-2__22192-2-T__2021-04-15__15-48-54(6)_dw.JPG" title="bobcat" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/ground_pred_22276-4__22276-4-G__2021-04-05__22-58-11(1)_er.JPG" title="small mammal" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/trail_val_8908-3__2019-07-09__23-02-29(2)_hf.JPG" title="mt beaver" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ground_pred_22276-4__22276-4-G__2021-04-05__22-58-11(1)_er.JPG" title="small mammal" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/trail_val_22192-2__22192-2-T__2021-04-15__15-48-54(6)_dw.JPG" title="bobcat" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
