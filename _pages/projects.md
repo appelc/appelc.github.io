@@ -5,7 +5,7 @@ permalink: /projects/
 description: coming soon
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [phd, other]
 horizontal: false
 ---
 
