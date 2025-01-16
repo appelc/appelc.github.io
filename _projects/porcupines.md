@@ -29,9 +29,9 @@ If you're interested in learning more about our porcupine work, check out this <
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6ja3cPxuwls?si=vkwJPs31afGHRTZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 <br/>
 <br/>
-**More media features:**
-- <a href="https://www.nwf.org/Magazines/National-Wildlife/2019/Oct-Nov/Conservation/Porcupines"><b>"Pining Away? As the climate shifts, porcupines face a prickly future."</b> by Jennifer S. Holland * *(National Wildlife Magazine)*</a>
-- <a href="https://www.spokesman.com/stories/2021/apr/18/amid-widespread-decline-spokane-region-remains-som/">"Amid widespread decline, Spokane region remains something of a porcupine redoubt." by Ben Goldfarb * *(The Spokesman-Review, Spokane, WA)*</a>
-- <a href="https://www.nwf.org/Magazines/National-Wildlife/2019/Oct-Nov/Conservation/Porcupines">"Loud porcupines rescued from Tahoe’s Caldor Fire are finally going home." by Ashley Harrell * *(SFGATE)*</a>
+###Media features:
+- <a href="https://www.nwf.org/Magazines/National-Wildlife/2019/Oct-Nov/Conservation/Porcupines"><b>"Pining Away? As the climate shifts, porcupines face a prickly future."</b> by Jennifer S. Holland *(National Wildlife Magazine)*</a>
+- <a href="https://www.spokesman.com/stories/2021/apr/18/amid-widespread-decline-spokane-region-remains-som/"><b>"Amid widespread decline, Spokane region remains something of a porcupine redoubt."</b> by Ben Goldfarb *(The Spokesman-Review, Spokane, WA)*</a>
+- <a href="https://www.nwf.org/Magazines/National-Wildlife/2019/Oct-Nov/Conservation/Porcupines"><b>"Loud porcupines rescued from Tahoe’s Caldor Fire are finally going home."</b>b by Ashley Harrell *(SFGATE)*</a>
 
  
