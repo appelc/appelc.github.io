@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: research
 permalink: /projects/
-nav: true
+nav: false
 nav_order: 2
 display_categories: [phd, other]
 horizontal: false
