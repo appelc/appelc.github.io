@@ -1,13 +1,14 @@
 ---
 layout: page
 title: submenus
-nav: false
-nav_order: 7
+nav: true
+nav_order: 4
 dropdown: true
 children:
-    - title: publications
-      permalink: /publications/
+    - title: bioacoustics
+      permalink: /projects/1_project
     - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: oregon critters
+      permalink: /projects/2_project
+    - title: divider
 ---
