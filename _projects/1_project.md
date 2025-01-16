@@ -1,81 +1,37 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Bioacoustics
+description: Bioacoustics for monitoring northern spotted owls
+img: assets/img/bioacoustics_pic.jpg
 importance: 1
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
+related_publications: lesmeister2021simulating, appel2023using, weldy2023long
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Northern spotted owls (<i>Strix occidentalis caurina</i>) are federally listed as threatened under the Endangered Species Act and have been at the forefront of forest management and conservation policy in the Pacific Northwest for decades. Recently, monitoring of northern spotted owls transitioned from mark-resight surveys to a passive acoustic monitoring framework using autonomous recording units (ARUs) to detect owls by their vocalizations.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+<Publications:>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/simulations_cover.jpg" title="Lesmeister et al. 2021" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
+
+Lesmeister, D. B., <b>C. L. Appel</b>, R. J. Davis, C. B. Yackulic, and Z. J. Ruff. 2021. Simulating the effort necessary to detect changes in northern spotted owl (<i>Strix occidentalis caurina</i>) populations using passive acoustic monitoring. Research Paper PNW-RP-618. USDA Forest Service, Pacific Northwest Research Station. Portland, OR. 55 p. (<a href="https://www.fs.usda.gov/research/treesearch/download/62862.pdf">PDF</a>)
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/ecosphere_cover.jpg" title="Appel et al. 2023" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+<b>Appel, C. L.</b>, D. B. Lesmeister, A. Duarte, R. J. Davis, M. J. Weldy, and T. Levi. 2023. Using passive acoustic monitoring to estimate northern spotted owl landscape use and pair occupancy. Ecosphere 14(2): e4421. (<a href="https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.4421">HTML</a>) (<a href="https://esajournals.onlinelibrary.wiley.com/doi/pdf/10.1002/ecs2.4421">PDF</a>)
 
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/weldy_cover.jpg" title="Weldy et al. 2023" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
 
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+Weldy, M. J., D. B. Lesmeister, C. B. Yackulic, <b>C. L. Appel</b>, C. McCafferty, and J. D. Wiens. 2023. Long-term monitoring in transition: resolving spatial mismatch and integrating multistate occupancy data. Ecological Indicators 146: 109815. (<a href="https://www.sciencedirect.com/science/article/pii/S1470160X22012882">HTML</a>)
