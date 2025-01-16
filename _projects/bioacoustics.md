@@ -12,13 +12,12 @@ Northern spotted owls (<i>Strix occidentalis caurina</i>) are federally listed a
 
 This work is supported by the Pacific Northwest Bioacoustics Lab at the U.S. Forest Service Pacific Northwest Research Station.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/bioacoustics_lab.png" title="bioacoustics lab" class="img-fluid rounded z-depth-1" %}
-    </div>
+<div style="text-align: center;">
+    <img src="/assets/img/bioacoustics_lab.png" alt="PNW Bioacoustics Lab logo" style="width: 30%; max-width: 400px;">
 </div>
 
-<b>Publications:</b>
+
+**Publications:**
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
