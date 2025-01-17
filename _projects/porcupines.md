@@ -32,6 +32,7 @@ If you're interested in learning more about our porcupine work, check out this <
 ### Media features
 - <a href="https://www.nwf.org/Magazines/National-Wildlife/2019/Oct-Nov/Conservation/Porcupines"><b>"Pining Away? As the climate shifts, porcupines face a prickly future."</b> by Jennifer S. Holland *(National Wildlife Magazine)*</a>
 - <a href="https://www.spokesman.com/stories/2021/apr/18/amid-widespread-decline-spokane-region-remains-som/"><b>"Amid widespread decline, Spokane region remains something of a porcupine redoubt."</b> by Ben Goldfarb *(The Spokesman-Review)*</a>
-- <a href="https://www.nwf.org/Magazines/National-Wildlife/2019/Oct-Nov/Conservation/Porcupines"><b>"Loud porcupines rescued from Tahoe’s Caldor Fire are finally going home."</b>b by Ashley Harrell *(SFGATE)*</a>
+- <a href="https://www.sfgate.com/bayarea/article/porcupines-rescued-from-fire-going-home-17067209.php"><b>"Loud porcupines rescued from Tahoe’s Caldor Fire are finally going home."</b> by Ashley Harrell *(SFGATE)*</a>
+- <a href="https://columbiainsight.org/where-have-all-the-porcupines-gone/"><b>"Where have all the porcupines gone?"</b> by Dawn Stover *(Columbia Insight)*</a>
 
  
