@@ -24,9 +24,12 @@ I studied North American porcupines for my master's thesis at Cal Poly Humboldt 
 
 Porcupine populations are suspected to be declining in western North America, so we also collected occurrence records to track their historical and contemporary distribution in <a href="https://digitalcommons.humboldt.edu/cgi/viewcontent.cgi?article=1002&context=oer">northern California</a>, where porcupines are now listed as a Species of Special Concern, and then expanded this effort into <a href="https://www.researchgate.net/profile/Cara-Appel/publication/349951521_NORTH_AMERICAN_PORCUPINE_DISTRIBUTION_IN_THE_PACIFIC_NORTHWEST_AND_EVALUATION_OF_A_NON-INVASIVE_MONITORING_TECHNIQUE/links/620c0714634ff774f4cfb401/NORTH-AMERICAN-PORCUPINE-DISTRIBUTION-IN-THE-PACIFIC-NORTHWEST-AND-EVALUATION-OF-A-NON-INVASIVE-MONITORING-TECHNIQUE.pdf">Oregon and Washington</a>.
 
-If you're interested in learning more about our porcupine work, check out this <a href="https://youtu.be/6ja3cPxuwls">webinar</a> I presented for Oregon Wild!
+If you're interested in learning more about our porcupine work, check out this <a href="https://youtu.be/6ja3cPxuwls">webinar</a> I presented for Oregon Wild:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6ja3cPxuwls?si=vkwJPs31afGHRTZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+<br/>
+<br/>
+And Tim's fantastic episode about [porcupines on Ologies](https://www.alieward.com/ologies/erethizonology)!
 <br/>
 <br/>
 ### Media features
