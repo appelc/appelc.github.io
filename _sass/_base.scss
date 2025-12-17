@@ -395,6 +395,17 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+.toggle-container {
+  display: flex;
+  align-items: center;
+  
+  #light-toggle {
+    padding:  0.5rem 1rem;  // Match the nav-link padding
+    display: flex;
+    align-items: center;
+  }
+}
+
 // Social (bottom)
 
 .social {
