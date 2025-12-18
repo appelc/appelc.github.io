@@ -5,10 +5,10 @@ description: Wildlife monitoring in Nkhotakota Wildlife Reserve, Malawi
 img: assets/img/R23-C-2020-07-23 (140).JPG
 importance: 3
 category: phd
-related_publications: koning2023njobvu
+related_publications: koning2023njobvu, appel2025njobvu
 ---
 
-I am extremely fortunate to get to work with collaborators from African Parks and the U.S. Forest Service on a large monitoring program in Nkhotakota Wildlife Reserve, Malawi, which was the site of the largest-ever translocation of African elephants in 2016 and 2017. To date, over 2000 animals of 9 species have been released into the reserve as part of the restoration effort.
+I am extremely fortunate to get to work with collaborators from African Parks and the U.S. Forest Service on a large monitoring program in Nkhotakota Wildlife Reserve, Malawi, which is the site of one of the largest-ever translocation of African elephants in 2016 and 2017. To date, over 2000 animals of 9 species have been released into the reserve as part of the restoration effort.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -22,7 +22,7 @@ I am extremely fortunate to get to work with collaborators from African Parks an
     </div>
 </div>
 
-We are using remote camera traps to monitor mammal populations in the reserve, along with computer vision models to process the data. More coming soon!
+We are using remote camera traps to monitor mammal populations in the reserve, along with computer vision models to process the data. We published a <a href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.70096">paper in Ecological Applications</a> presenting the development of our model and a user-friendly software tool, Njobvu-AI. We also published our dataset of annotated images on LILA BC (<a href="https://lila.science/datasets/nkhotakota-camera-traps/">Nkhotakota Camera Traps</a>).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -36,7 +36,7 @@ We are using remote camera traps to monitor mammal populations in the reserve, a
     </div>
 </div>
 
-This project was a driving factor behind the development of Njobvu-AI, a user-friendly software tool to label images and train custom computer vision models, developed with collaborators at Oregon State University. (<a href="https://github.com/sullichrosu/Njobvu-AI">Github</a>) (<a href="https://arxiv.org/abs/2308.16435">Preprint</a>)
+Njobvu-AI was developed with collaborators at Oregon State University and is a user-friendly, collaborative software tool to label images and train custom computer vision models. (<a href="https://github.com/sullichrosu/Njobvu-AI">Github</a>) (<a href="https://arxiv.org/abs/2308.16435">Preprint</a>) (<a href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.70096">Paper</a>)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
