@@ -18,27 +18,38 @@ This work is supported by the [Pacific Northwest Bioacoustics Lab](http://www.da
 
 
 ### Publications:
+I worked on simulations to assess the effectiveness of different passive acoustic sampling schemes at tracking populations of northern spotted owls using an occupancy modeling framework. These results fed into the current design that is now implemented rangewide. I also conducted a multi-state occupancy analysis to estimate probabilities of landscape use and pair occupancy, as spotted owl pairs receive higher protections under current regulatory frameworks. 
+
+Below are some publications I have contributed to:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/simulations_cover.jpg" title="Lesmeister et al. 2021" class="img-fluid rounded z-depth-1" %}
+        <a href="https://research.fs.usda.gov/treesearch/62862" target="_blank"> 
+            {% include figure.html path="assets/img/simulations_cover.jpg" title="Lesmeister et al. 2021" class="img-fluid rounded z-depth-1" %}
+        </a>
     </div>
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
+        <a href="https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.4421" target="_blank">
         {% include figure.html path="assets/img/ecosphere_cover.png" title="Appel et al. 2023" class="img-fluid rounded z-depth-1" %}
+        </a>
     </div>
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
+        <a href="https://www.sciencedirect.com/science/article/pii/S1470160X21000844" target="_blank">
         {% include figure.html path="assets/img/ruff_cover.png" title="Ruff et al. 2021" class="img-fluid rounded z-depth-1" %}
+        </a>
     </div>
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
+        <a href="https://www.sciencedirect.com/science/article/pii/S1470160X22012882" target="_blank">
         {% include figure.html path="assets/img/weldy_cover.png" title="Weldy et al. 2023" class="img-fluid rounded z-depth-1" %}
+        </a>
     </div>
 </div>
