@@ -3,30 +3,26 @@
   contents:
     - title: Ph.D.
       institution: Oregon State University -- Corvallis, Oregon, USA
-      year: 2025
+      year: 
       description:
         - Department of Fisheries, Wildlife, and Conservation Sciences
     - title: M.S.
       institution: Cal Poly Humboldt -- Arcata, California, USA
-      year: 2016
+      year: 
       description:
         - Department of Wildlife
     - title: B.A.
       institution: University of Washington -- Seattle, Washington, USA
-      year: 2011
+      year: 
       description:
         - Environmental Studies
         - College and Departmental Honors
 
-- title: Experience
+- title: Current Position
   type: time_table
   contents:
     - title: Postdoctoral Research Fellow
       institution: The University of British Columbia
-    - title: Graduate Research Assistant
-      institution: Oregon State University
-      description: Affiliate with U.S. Forest Service Pacific Northwest Research Station
-      year: 
 
 - title: Other Achievements
   type: nested_list
